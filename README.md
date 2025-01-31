@@ -22,7 +22,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/monkey-go.git
+git clone https://github.com/debitCredit/monkey-go.git
 cd monkey-go
 go build -o monkey
 ```

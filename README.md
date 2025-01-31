@@ -86,7 +86,7 @@ This project follows concepts from:
 
 ## Development Roadmap
 - [x] Lexical analysis
-- [ ] Pratt parser implementation
+- [x] Pratt parser implementation
 - [ ] Basic evaluation
 - [ ] Garbage collection
 - [ ] Bytecode compiler

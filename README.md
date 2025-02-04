@@ -85,7 +85,7 @@ This project follows concepts from:
 - [Monkey Language Specification](https://interpreterbook.com/#the-monkey-language)
 
 ## Development Roadmap
-- [ ] Lexical analysis
+- [x] Lexical analysis
 - [ ] Pratt parser implementation
 - [ ] Basic evaluation
 - [ ] Garbage collection
